@@ -1,0 +1,6 @@
+.flake8
+archive/
+*.csv
+dummy/
+__pycache__/
+archive_pre/
