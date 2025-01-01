@@ -80,12 +80,13 @@ def main(path: str):
 
     for file in files:
         json_ = read_json(file)
+        print(json_)
         domain = return_domain(path, file)
         parse(json_, values, domain)
         # exit()
 
     df = pd.DataFrame(values)
-    # df.to_csv("testing_for_email.csv", index=False)
+    df.to_csv("testing_for_email.csv", index=False)
 
     # df = pd.read_csv("email.csv")
     df = df.drop_duplicates()
@@ -93,9 +94,9 @@ def main(path: str):
     print(len(set(df['Website'])))
     new_df = transform_dataframe(df)
     print(new_df)
-    # new_df.to_csv("domain_based_email_csv.csv", index=False)
+    new_df.to_csv("domain_based_email_csv.csv", index=False)
 
 
 if __name__ == "__main__":
-    file_path = r'/home/polymorphisma/adex/apollo-scraper-api/outreach/outreach_data'
+    file_path = r'/home/polymorphisma/adex/apollo-scraper-api/outreach/outreach_data_1'
     main(file_path)

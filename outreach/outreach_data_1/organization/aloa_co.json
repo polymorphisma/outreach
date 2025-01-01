@@ -1,0 +1,54 @@
+[
+    {
+        "num_fetch_result": null,
+        "organizations": [
+            {
+                "name": "Aloa",
+                "domain": "aloa.co",
+                "website_url": "http://www.aloa.co",
+                "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/67642ac910c8d80001bfc519/picture",
+                "id": "57c4be58a6da98372d4b162e"
+            },
+            {
+                "name": "ALOA-LOGISTICS CONSULTING IN CUSTOMS OPERATIONS",
+                "domain": "aloa.com.co",
+                "website_url": "http://www.aloa.com.co",
+                "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/674f0a77553f1d000124412d/picture",
+                "id": "663eeb29685e22000163271b"
+            },
+            {
+                "name": "Australian Landfill Owners Assocation (ALOA)",
+                "domain": "aloa.com.au",
+                "website_url": "http://www.aloa.com.au",
+                "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6701ab3267de880001d11a95/picture",
+                "id": "66496f144611af0001fba4ba"
+            }
+        ]
+    },
+    {
+        "num_fetch_result": null,
+        "organizations": [
+            {
+                "name": "Aloa",
+                "domain": "aloa.co",
+                "website_url": "http://www.aloa.co",
+                "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/67642ac910c8d80001bfc519/picture",
+                "id": "57c4be58a6da98372d4b162e"
+            },
+            {
+                "name": "ALOA-LOGISTICS CONSULTING IN CUSTOMS OPERATIONS",
+                "domain": "aloa.com.co",
+                "website_url": "http://www.aloa.com.co",
+                "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/674f0a77553f1d000124412d/picture",
+                "id": "663eeb29685e22000163271b"
+            },
+            {
+                "name": "Australian Landfill Owners Assocation (ALOA)",
+                "domain": "aloa.com.au",
+                "website_url": "http://www.aloa.com.au",
+                "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6701ab3267de880001d11a95/picture",
+                "id": "66496f144611af0001fba4ba"
+            }
+        ]
+    }
+]

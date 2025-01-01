@@ -8,7 +8,7 @@ from outreach_parser import main as parse_main
 
 
 save_path = Path('/home/polymorphisma/adex/apollo-scraper-api/outreach/outreach_data_1')
-read_file = r"/home/polymorphisma/adex/apollo-scraper-api/outreach/outreach_details.csv"
+read_file = r"/home/polymorphisma/adex/apollo-scraper-api/random.csv"
 save_email_path = r'/home/polymorphisma/adex/apollo-scraper-api/outreach/outreach_emails_1.csv'
 rename_values = {
     "Domain URL": "websiteUrl"
